@@ -1,0 +1,8 @@
+path: C:\Users\user\PycharmProjects\Vehicle_Yolov9_2\data  # dataset root dir
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes
+nc: 4
+names: ['crooked bracket', 'no washer friction', 'straight bracket', 'washer friction']
